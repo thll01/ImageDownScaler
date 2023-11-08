@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.Form1.resources
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.Properties.Resources.resources
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\bin\Debug\ImageDownScale.exe.config
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\bin\Debug\ImageDownScale.exe
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\bin\Debug\ImageDownScale.pdb
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.exe
+C:\Users\Acer\source\repos\ImageDownScale\ImageDownScale\obj\Debug\ImageDownScale.pdb
